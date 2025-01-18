@@ -41,9 +41,8 @@ The dataset is sourced from [Kaggle's Credit Card Fraud Detection Dataset](https
 
 ## Results
 The model comparison indicates the following:
-- **Best Performing Model:** [Mention Model]
-- **F1-Score:** [Value]
-- **AUC-ROC:** [Value]
+- **Best Performing Model:** XGBoost
+- **F1-Score:** 0.88
 
 ## File Structure
 - `ccfd.ipynb`: Jupyter Notebook containing the source code.
