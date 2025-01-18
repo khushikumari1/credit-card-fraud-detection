@@ -47,7 +47,7 @@ The model comparison indicates the following:
 
 ## File Structure
 - `ccfd.ipynb`: Jupyter Notebook containing the source code.
-- `Mini_Project_Report_22MP01_CreditCardFraudDetection.pdf`: Detailed project report.
+- `Report.pdf`: Detailed project report.
 - `README.md`: Overview and instructions.
 
 ## Future Work
